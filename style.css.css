@@ -1,0 +1,159 @@
+h1{
+    color: green;
+    font-family: sans-serif;
+}
+
+p{
+    color: coral;
+    font-family: fantasy;
+}
+ul{
+    list-style-image:url('images/pointer-icon.png');
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+#menu-bar a{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: yellow;
+    color: #ffffff;
+
+}
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse:collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #0B6138;
+}
+th{
+    font-weight: 800;
+    background-color:#0B6138;
+    color: #ffffff;
+
+}
+
+table,th,td{
+                font-family: Helvetica, Arial, sans-serif;
+                border: 1px solid black;
+                width: 100%;
+                border-collapse: collapse;
+                box-shadow: #bd129b;
+                margin: auto;
+                
+            }
+
+            table, th, td{
+                border: 1px solid black;
+                border-width: 1px;
+                border-style: solid
+            
+            }
+ 
+            h1{
+                font-family: Helvetica, sans-serif;
+                color: #bd129b;
+                font-size: 30px;
+            } 
+            
+            p{ 
+                font-family: Arial;
+                font-weight: bold;
+                margin-top: 20px;
+                background-color: #ffffff;
+                margin: 0px;
+                padding: 5px;
+            }
+
+            th, td{
+                font-family: Helvetica, sans-serif;
+                padding: 10px;
+                text-align: center;
+                width: 100px ;
+
+            }
+            th.rank {
+                    width: 5%;
+                }
+
+                th.year {
+                    width: 10%;
+                }
+                
+                th.thumbnail{
+                    width: 20%;
+
+                }
+
+                th.movie title{
+                    width: 20%;
+
+                }
+
+                th.worldwide gross{
+                   width: 10%; 
+                }
+
+            th{
+                background-color: #bd129b;
+                color: white;
+            
+            }
+
+            p{
+                font-size: 20px;
+                color: black;
+
+            }
+            h1{
+                color: #bd129b;
+                font-size: 30px;
+            }
+
+            table a{
+                text-decoration: none;
+                color: black;
+            }
+
+            tr:hover{
+                background-color: #0ff1cf;
+                transition: 0.5s;
+                cursor: pointer;
+            }
+          
+
+            .highlight-movie {
+                background-color: #F781F3;
+            
+            }
+
+            img{
+                width: 50px;
+                height: auto;  
+                visibility: visible;
+            
+            }
+
+            footer p{
+                font-family: Helvetica, sans-serif;
+                text-align: left;
+                width: 99%;
+                padding: 10px;
+                margin-top: 10px;
+                background-color: #bd129b;
+            
+            }
+            
+    
+
+    
+
+
